@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a text file
+=======
+this is a new file
+>>>>>>> df600c1afd448d8807fa8f19469927f1d192e63e
